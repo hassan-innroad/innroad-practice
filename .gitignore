@@ -1,0 +1,16 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\ Files/
+*.designer.cs
+*.g.cs
+*.g.i.cs
